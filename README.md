@@ -27,3 +27,20 @@ Example:
 </div>
 </div><!--/-contact-wrap-->
 ```
+
+## The Mail
+
+Example:
+
+```html
+
+[your-name] [your-last-name]
+
+email: [your-email]
+tel: [tel-num]
+
+[your-message]
+
+This was sent from www.########.com
+
+```
