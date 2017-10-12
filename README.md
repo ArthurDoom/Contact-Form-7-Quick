@@ -8,16 +8,16 @@ Example:
 ```html
 <div class="contact-wrap">
 <div class="contact-col-1">
-	[text* your-name]First Name[/text*]
+	[text* your-name class:input-lg]First Name[/text*]
 </div>
 <div class="contact-col-2">
-	[text* your-last-name]Last Name[/text*]
+	[text* your-last-name class:input-lg]Last Name[/text*]
 </div>
 <div class="contact-col-1">
-	[email* your-email]Email[/email*]
+	[email* your-email class:input-lg]Email[/email*]
 </div>
 <div class="contact-col-2">
-	[tel tel-num]Phone[/tel]
+	[tel tel-num class:input-lg]Phone[/tel]
 </div>
 <div class="contact-col-full">
 	[textarea* your-message]Your Message[/textarea*]
