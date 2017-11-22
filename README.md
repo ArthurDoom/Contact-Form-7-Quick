@@ -6,7 +6,7 @@ A quick copy and paste to layout the wordpress plugin Contact Form 7
 Example:
 
 ```html
-<div class="contact-wrap">
+<div class="contact-wrap clearfix">
 <div class="contact-col-1">
 	[text* your-name class:input-lg]First Name[/text*]
 </div>
